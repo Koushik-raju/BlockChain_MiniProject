@@ -1,1 +1,1 @@
-# BlockChain_MiniProject
+# Ethereum_BlockChain_MiniProject
